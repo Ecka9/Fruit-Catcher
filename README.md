@@ -14,7 +14,7 @@ Python Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/ErhanCitil/fruit-catcher.git
+(https://github.com/DeSagunMariaCyril/Fruit-Catcher.git and https://github.com/Ecka9/Fruit-Catcher.git )
 Navigate to the project directory:
 bash
 Copy code
