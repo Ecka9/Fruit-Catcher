@@ -34,7 +34,7 @@ This project is licensed under the MIT license. See the LICENSE file for details
 Local Development Environment
 This section provides an overview of my development environment during the creation of the code.
 
-I used macOS 14.3.1 and wrote the game in Python. I chose Python version 3.10, which is the Long-Term Support (LTS) version, as it is widely supported by most libraries. No additional specialized software was required for this project.
+I chose Python version 3.13.1, the latest stable version, as it is widely supported by most libraries. No additional specialized software was required for this project.
 
 Hardware Specifications
 Laptop Specifications
