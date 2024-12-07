@@ -301,4 +301,3 @@ def game_over():
 
 # Start the game
 main_menu()
-
