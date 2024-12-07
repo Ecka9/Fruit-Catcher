@@ -142,7 +142,6 @@ def game_loop():
             objects.append({"img": object_img, "x": object_x, "y": -100})
             next_object_time = random.randint(60, 120)
 
-        # Move objects and handle collisions
         new_objects = []
         basket_rect = pygame.Rect(basket_x, basket_y, basket_width, basket_height)
         for obj in objects:
